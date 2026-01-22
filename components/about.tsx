@@ -18,8 +18,8 @@ export default function About() {
   });
 
   const stats = [
-    { value: 4, label: "Team Members", suffix: "+", icon: Users },
-    { value: 100, label: "Client Satisfaction", suffix: "%", icon: TrendingUp },
+    { value: 11, label: "Team Members", suffix: "+", icon: Users },
+    { value: 94, label: "Client Satisfaction", suffix: "%", icon: TrendingUp },
     { value: 50, label: "Projects Delivered", suffix: "+", icon: Sparkles },
   ];
 
